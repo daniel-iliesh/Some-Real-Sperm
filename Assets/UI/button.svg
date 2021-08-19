@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg5380"
+   width="491"
+   height="223"
+   viewBox="0 0 491 223"
+   sodipodi:docname="button.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5384">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6849"
+       x="-0.0068115431"
+       y="0"
+       width="1.0068115"
+       height="1.0327912">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6839" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6841" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur6843" />
+      <feOffset
+         dx="-3"
+         dy="6"
+         result="offset"
+         id="feOffset6845" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6847" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview5382"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.0875764"
+     inkscape:cx="191.25094"
+     inkscape:cy="86.890449"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5386" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g5386">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;filter:url(#filter6849)"
+       id="rect5616"
+       width="440.42883"
+       height="182.97566"
+       x="28.503746"
+       y="19.308989"
+       ry="91.487831" />
+  </g>
+</svg>
